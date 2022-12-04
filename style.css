@@ -1,0 +1,45 @@
+body{
+    background-color:#011F3F;
+}
+.heading{
+    color: bisque;
+    font-weight: 300;
+    font-size: 40px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+button{
+    width: 170px;
+    height: 170px;
+    margin: 30px;
+    border: 10px solid black;
+    border-radius: 20px;
+}
+.boxes{
+    margin-top: 45px;
+    text-align: center;
+}
+.red{
+    background-color: red;
+    color: red;
+}
+.blue{
+    background-color: blue;
+    color: blue;
+}
+.yellow{
+    background-color: yellow;
+    color: yellow;
+}
+.green{
+    background-color: #00ab41;
+    color : #00ab41;
+}
+.animate{
+    opacity: 0.5;
+    width: 200px;
+    height: 200px;
+    border-color: white;
+}
+.WA{
+    background-color: red;
+}
